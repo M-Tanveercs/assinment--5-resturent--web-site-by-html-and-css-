@@ -1,0 +1,16 @@
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+/* utility clacces*/
+.img-responsive{
+    max-width: 100%;
+
+}
+.hero_image{
+    background-image: url(images/rs.jpg);
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
